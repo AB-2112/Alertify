@@ -7,5 +7,4 @@ Emergency Response Coordination
 Mobile Apps and Citizen Reporting
 
 # Flowchart
-
-
+![flow1](https://github.com/AB-2112/Alertify/assets/118833348/bf47ead0-760e-4034-9f5c-b20d1d97bac0)
